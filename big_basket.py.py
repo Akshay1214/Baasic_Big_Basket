@@ -38,17 +38,3 @@ for i in list(final_sheet):
     wb.save("Ayurved_Data.csv")
 
 driver.quit()
-
-
-
-
-
-
-'''
-//*[@id="store-entry"]/div[1]/div/div[4]/div/div/a/img
-//*[@qa="product_name"]
-//*[@class="ng-binding"][3]
-
-
-
-'''
